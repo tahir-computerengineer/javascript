@@ -3,3 +3,5 @@
 HTML, CSS ve JS ile kodlanmıştır. 
 
 İngilizce ve Türkçe olarak kullanılailir.  
+
+![image](https://github.com/user-attachments/assets/4e38cfe9-f0c1-45f8-af9c-3ea45106e113)
