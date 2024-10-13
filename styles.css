@@ -1,0 +1,56 @@
+#resim-baslik {
+    display: inline-flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+#ana-baslik {
+    margin-top: 50px;
+    color: black;
+    margin-left: 0px;
+}
+
+div {
+display: inline-block;
+vertical-align: top;
+margin: 8px;
+}
+
+#btn {
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 3px 6px;
+    margin-top: 14px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    margin-right: 3em; /* 2 tab boşluk */
+}
+
+h4 {
+    color: red;
+}
+
+body {
+    margin-left: 20px;
+}
+
+#language-select {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#clear {
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 3px 6px;
+    margin-top: 14px;
+}

@@ -1,10 +1,5 @@
-# Ship & Container Tracking - VesselFinder sitesinde geminin konumundan belirli bir limana veya demir bölgesine geliş süresini hesaplamak için mesafesini ölçtüğümüzde geminin hızını ve mesafesini verse de bunun ne kadar gün ve saat süreceğinin bilgisini vermiyor.
+Åu anda halen geÃ§erli olan 5 Haziran 2009 tarihli GEMÄ°LERDEN ATIK ALINMASI VE ATIKLARIN KONTROLÃœ YÃ–NETMELÄ°ÄÄ° Ã‡ERÃ‡EVESÄ°NDE UYGULANACAK ÃœCRETLER VE ESASLAR HAKKINDA TEBLÄ°Ä (TEBLÄ°Ä NO: 2009/3) 'e gÃ¶re hazÄ±rlanmÄ±ÅŸtÄ±r. 
 
+HTML, CSS ve JS ile kodlanmÄ±ÅŸtÄ±r. 
 
-
-Bu tarayıcı eklentisi gemi hızı ve mesafe verisinden bunu hesaplayıp hem süre olarak hem de tarih ve saat bilgisi ile geminin geliş zamanını gösteriyor.
-
-
-
- 
-
+Ä°ngilizce ve TÃ¼rkÃ§e olarak kullanÄ±lailir.  
