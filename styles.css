@@ -1,0 +1,22 @@
+h1{
+	color: green;
+	text-align: center;
+	font-size: 4em;
+	
+}
+
+.grid-item {
+  display: inline-grid;
+  padding: 10px 50px;
+
+}
+
+
+.grid-container {
+	text-align: center;
+	color: green;
+    font-size: 2em;
+	
+
+
+}
